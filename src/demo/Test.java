@@ -7,6 +7,9 @@ public class Test {
         System.out.println(user.getName());
 
 
+        System.out.println("上海自来水来自海上");
+
+
         System.out.println("===========");
     }
 }
