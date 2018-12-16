@@ -9,6 +9,8 @@ public class Test {
 
         System.out.println("上海自来水来自海上");
 
+        System.out.println("山西悬空寺空悬西山");
+
 
         System.out.println("===========");
     }
