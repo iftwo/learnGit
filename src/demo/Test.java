@@ -12,5 +12,7 @@ public class Test {
 
         System.out.println("dev001");
 
+        System.out.println("把dev001同步到master中");
+
     }
 }
